@@ -1,2 +1,1 @@
-# ismailovv
-O'quvchilarga github bilan ishlashni o'rgatish
+bu git hub ga birinchi marta push qilgan paytim
